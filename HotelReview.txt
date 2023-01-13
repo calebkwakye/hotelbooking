@@ -1,0 +1,23 @@
+Year,Average rating out of 10,Category
+2012, 7.2, Competitors
+2013, 6.1, Competitors
+2014, 7.8, Competitors
+2015, 5.2, Competitors
+2016, 6.4, Competitors
+2017, 5.9, Competitors
+2018, 7.5, Competitors
+2019, 7.6, Competitors
+2020, 7.7, Competitors
+2021, 6.4, Competitors
+2022, 6.6, Competitors
+2012, 7.9, SpiderHub
+2013, 7.0, SpiderHub
+2014, 8.9, SpiderHub
+2015, 7.4, SpiderHub
+2016, 8.1, SpiderHub
+2017, 8.4, SpiderHub
+2018, 7.7, SpiderHub
+2019, 8.0, SpiderHub
+2020, 7.9, SpiderHub
+2021, 7.6, SpiderHub
+2022, 9.7, SpiderHub
