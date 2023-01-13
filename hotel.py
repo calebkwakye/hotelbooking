@@ -21,7 +21,7 @@ from email.mime.multipart import MIMEMultipart
 
 #sets the webpage configuration
 #image= Image.open('https://github.com/calebkwakye/hotelbooking/blob/main/images/sh.jpeg')
-st.set_page_config(page_title="SpiderHub Oceanfront Hotel", page_icon=image, layout="wide")
+#st.set_page_config(page_title="SpiderHub Oceanfront Hotel", page_icon=image, layout="wide")
 
 
 
